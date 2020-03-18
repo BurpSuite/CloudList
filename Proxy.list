@@ -1,14 +1,14 @@
 #inoreader
-DOMAIN-SUFFIX,inoreader.com,Proxy
+DOMAIN-SUFFIX,inoreader.com
 
 #javlibrary
-DOMAIN-SUFFIX,javlibrary.com,Proxy
-DOMAIN-SUFFIX,javlib.com,Proxy
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,javlib.com
 
 # sexinsex
-DOMAIN-SUFFIX,sexinsex.net,Proxy
-DOMAIN-SUFFIX,sis001.com,Proxy
+DOMAIN-SUFFIX,sexinsex.net
+DOMAIN-SUFFIX,sis001.com
 
 # 内置词典 需开启增强模式
-DOMAIN-SUFFIX,g.akamaiedge.net,Proxy
-DOMAIN-SUFFIX,lookup-api.apple.com,Proxy
+DOMAIN-SUFFIX,g.akamaiedge.net
+DOMAIN-SUFFIX,lookup-api.apple.com
