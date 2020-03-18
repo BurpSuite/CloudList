@@ -1,16 +1,16 @@
 
 # twitch tv
-USER-AGENT,twitch*,Media
-DOMAIN-SUFFIX,twitch.tv,Media
-DOMAIN-SUFFIX,twitchcdn.net,Media
-DOMAIN-SUFFIX,ttvnw.net,Media
-DOMAIN-SUFFIX,jtvnw.net,Media
-DOMAIN-SUFFIX,twimg.com,Media
+USER-AGENT,twitch*
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,twimg.com
 
 # PornHub
-DOMAIN-SUFFIX,phncdn.com,Media
-DOMAIN-SUFFIX,pornhub.com,Media
-DOMAIN-SUFFIX,phncdn.com,Media
-DOMAIN-SUFFIX,phprcdn.com,Media
-DOMAIN-SUFFIX,pornhub.com,Media
-DOMAIN-SUFFIX,pornhubpremium.com,Media
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
