@@ -1,6 +1,0 @@
-
-#ADblock
-RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Reject.list,AdBlock
-
-
-RULE-SET,https://raw.githubusercontent.com/shenhix/RuleList/master/1.list,GlobalTV
