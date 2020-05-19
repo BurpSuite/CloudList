@@ -1,14 +1,1 @@
-#inoreader
-DOMAIN-SUFFIX,inoreader.com
 
-#javlibrary
-DOMAIN-SUFFIX,javlibrary.com
-DOMAIN-SUFFIX,javlib.com
-
-# sexinsex
-DOMAIN-SUFFIX,sexinsex.net
-DOMAIN-SUFFIX,sis001.com
-
-# 内置词典 需开启增强模式
-DOMAIN-SUFFIX,g.akamaiedge.net
-DOMAIN-SUFFIX,lookup-api.apple.com
