@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,sis001.com
 # 内置词典 需开启增强模式
 DOMAIN-SUFFIX,g.akamaiedge.net
 DOMAIN-SUFFIX,lookup-api.apple.com
+
+# 漫画
+DOMAIN-SUFFIX,nhentai.net
