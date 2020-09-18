@@ -1,3 +1,6 @@
+# > TestFlight
+DOMAIN,testflight.apple.com
+
 # > Line
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line.me
@@ -19,6 +22,9 @@ DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,gate.hockeyapp.net
 DOMAIN-SUFFIX,smartmailcloud.com
+
+# > Tesla
+DOMAIN-KEYWORD,tesla
 
 # > Zooba
 USER-AGENT,battleroyale*
@@ -55,6 +61,7 @@ DOMAIN-SUFFIX,angularjs.org
 DOMAIN-SUFFIX,anthonycalzadilla.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,aolcdn.com
+DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,api.tiktokv.com
@@ -124,6 +131,7 @@ DOMAIN-SUFFIX,chromercise.com
 DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,cl.ly
+DOMAIN-SUFFIX,clien.net
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudgarage.jp
@@ -226,7 +234,7 @@ DOMAIN-SUFFIX,gunsamerica.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,helpshift.com
-DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,hitun.io
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,hootsuite.com
@@ -242,6 +250,7 @@ DOMAIN-SUFFIX,img.ly
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,imore.com
 DOMAIN-SUFFIX,ingress.com
+DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,insder.co
 DOMAIN-SUFFIX,instapaper.com
 DOMAIN-SUFFIX,instructables.com
@@ -286,6 +295,7 @@ DOMAIN-SUFFIX,logmein.com
 DOMAIN-SUFFIX,macid.co
 DOMAIN-SUFFIX,macromedia.com
 DOMAIN-SUFFIX,macrumors.com
+DOMAIN-SUFFIX,mangaup.jp
 DOMAIN-SUFFIX,manhuaren.com
 DOMAIN-SUFFIX,marketwatch.com
 DOMAIN-SUFFIX,mashable.com
@@ -311,7 +321,9 @@ DOMAIN-SUFFIX,ndr.de
 DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,newipnow.com
 DOMAIN-SUFFIX,nextmedia.com
+DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nih.gov
+DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,notion.so
@@ -480,6 +492,7 @@ DOMAIN-SUFFIX,tv.com
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,tweetmarker.net
 DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
@@ -615,6 +628,7 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,abc.xyz
@@ -635,7 +649,6 @@ DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gosetsuden.jp
-DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,html5rocks.com
@@ -667,75 +680,75 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-KEYWORD,dlercloud
 
 # > Amazon
-IP-CIDR,13.32.0.0/16,no-resolve
-IP-CIDR,13.33.0.0/16,no-resolve
-IP-CIDR,13.35.0.0/17,no-resolve
-IP-CIDR,18.184.0.0/15,no-resolve
-IP-CIDR,18.194.0.0/15,no-resolve
-IP-CIDR,18.208.0.0/13,no-resolve
-IP-CIDR,18.232.0.0/14,no-resolve
-IP-CIDR,52.200.0.0/13,no-resolve
-IP-CIDR,52.58.0.0/15,no-resolve
-IP-CIDR,52.74.0.0/16,no-resolve
-IP-CIDR,52.77.0.0/16,no-resolve
-IP-CIDR,52.84.0.0/15,no-resolve
-IP-CIDR,54.156.0.0/14,no-resolve
-IP-CIDR,54.226.0.0/15,no-resolve
-IP-CIDR,54.230.156.0/22,no-resolve
-IP-CIDR,54.93.0.0/16,no-resolve
+IP-CIDR,13.32.0.0/16
+IP-CIDR,13.33.0.0/16
+IP-CIDR,13.35.0.0/17
+IP-CIDR,18.184.0.0/15
+IP-CIDR,18.194.0.0/15
+IP-CIDR,18.208.0.0/13
+IP-CIDR,18.232.0.0/14
+IP-CIDR,52.200.0.0/13
+IP-CIDR,52.58.0.0/15
+IP-CIDR,52.74.0.0/16
+IP-CIDR,52.77.0.0/16
+IP-CIDR,52.84.0.0/15
+IP-CIDR,54.156.0.0/14
+IP-CIDR,54.226.0.0/15
+IP-CIDR,54.230.156.0/22
+IP-CIDR,54.93.0.0/16
 
 # > Facebook
-IP-CIDR,103.4.96.0/22,no-resolve
-IP-CIDR,129.134.0.0/17,no-resolve
-IP-CIDR,157.240.0.0/17,no-resolve
-IP-CIDR,173.252.64.0/19,no-resolve
-IP-CIDR,173.252.96.0/19,no-resolve
-IP-CIDR,179.60.192.0/22,no-resolve
-IP-CIDR,185.60.216.0/22,no-resolve
-IP-CIDR,204.15.20.0/22,no-resolve
-IP-CIDR,31.13.24.0/21,no-resolve
-IP-CIDR,31.13.64.0/18,no-resolve
-IP-CIDR,45.64.40.0/22,no-resolve
-IP-CIDR,66.220.144.0/20,no-resolve
-IP-CIDR,69.171.224.0/19,no-resolve
-IP-CIDR,69.63.176.0/20,no-resolve
-IP-CIDR,74.119.76.0/22,no-resolve
+IP-CIDR,103.4.96.0/22
+IP-CIDR,129.134.0.0/17
+IP-CIDR,157.240.0.0/17
+IP-CIDR,173.252.64.0/19
+IP-CIDR,173.252.96.0/19
+IP-CIDR,179.60.192.0/22
+IP-CIDR,185.60.216.0/22
+IP-CIDR,204.15.20.0/22
+IP-CIDR,31.13.24.0/21
+IP-CIDR,31.13.64.0/18
+IP-CIDR,45.64.40.0/22
+IP-CIDR,66.220.144.0/20
+IP-CIDR,69.171.224.0/19
+IP-CIDR,69.63.176.0/20
+IP-CIDR,74.119.76.0/22
 
 # > Google
-IP-CIDR,173.194.0.0/16,no-resolve
-IP-CIDR,74.125.0.0/16,no-resolve
+IP-CIDR,173.194.0.0/16
+IP-CIDR,74.125.0.0/16
 
 # > Kakao Talk
-IP-CIDR,1.201.0.0/24,no-resolve
-IP-CIDR,103.246.56.0/22,no-resolve
-IP-CIDR,103.27.148.0/22,no-resolve
-IP-CIDR,110.76.140.0/22,no-resolve
-IP-CIDR,113.61.104.0/22,no-resolve
-IP-CIDR,27.0.236.0/22,no-resolve
+IP-CIDR,1.201.0.0/24
+IP-CIDR,103.246.56.0/22
+IP-CIDR,103.27.148.0/22
+IP-CIDR,110.76.140.0/22
+IP-CIDR,113.61.104.0/22
+IP-CIDR,27.0.236.0/22
 
 # > LINE
-IP-CIDR,103.2.28.0/22,no-resolve
-IP-CIDR,119.235.224.0/21,no-resolve
-IP-CIDR,119.235.232.0/23,no-resolve
-IP-CIDR,119.235.235.0/24,no-resolve
-IP-CIDR,119.235.236.0/23,no-resolve
-IP-CIDR,125.6.146.0/24,no-resolve
-IP-CIDR,125.6.149.0/24,no-resolve
-IP-CIDR,125.6.190.0/24,no-resolve
-IP-CIDR,125.209.208.0/20,no-resolve
-IP-CIDR,203.104.103.0/24,no-resolve
-IP-CIDR,203.104.128.0/20,no-resolve
-IP-CIDR,203.174.66.64/26,no-resolve
-IP-CIDR,203.174.77.0/24,no-resolve
+IP-CIDR,103.2.28.0/22
+IP-CIDR,119.235.224.0/21
+IP-CIDR,119.235.232.0/23
+IP-CIDR,119.235.235.0/24
+IP-CIDR,119.235.236.0/23
+IP-CIDR,125.6.146.0/24
+IP-CIDR,125.6.149.0/24
+IP-CIDR,125.6.190.0/24
+IP-CIDR,125.209.208.0/20
+IP-CIDR,203.104.103.0/24
+IP-CIDR,203.104.128.0/20
+IP-CIDR,203.174.66.64/26
+IP-CIDR,203.174.77.0/24
 
 # > Potato Chat
-IP-CIDR,13.251.24.157/24,no-resolve
-IP-CIDR,13.251.41.203/24,no-resolve
-IP-CIDR,17.252.156.147/24,no-resolve
-IP-CIDR,17.252.157.26/24,no-resolve
+IP-CIDR,13.251.24.157/24
+IP-CIDR,13.251.41.203/24
+IP-CIDR,17.252.156.147/24
+IP-CIDR,17.252.157.26/24
 
 # > SoftLayer
-IP-CIDR,74.86.0.0/16,no-resolve
-IP-CIDR,75.126.0.0/16,no-resolve
-IP-CIDR,174.37.0.0/16,no-resolve
-IP-CIDR,208.43.0.0/16,no-resolve
+IP-CIDR,74.86.0.0/16
+IP-CIDR,75.126.0.0/16
+IP-CIDR,174.37.0.0/16
+IP-CIDR,208.43.0.0/16
