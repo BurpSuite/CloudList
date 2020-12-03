@@ -16,3 +16,11 @@ DOMAIN-SUFFIX,lookup-api.apple.com
 
 # 漫画
 DOMAIN-SUFFIX,nhentai.net
+
+# > TikTok
+USER-AGENT,TikTok*
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-KEYWORD,-tiktokcdn-com
