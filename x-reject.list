@@ -17,6 +17,14 @@ URL-REGEX,https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)
 URL-REGEX,https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat
 URL-REGEX,https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad
 
+DOMAIN-SUFFIX,azabu-u.ac.jp
+DOMAIN-SUFFIX,couchcoaster.jp
+DOMAIN-SUFFIX,delivery.dmkt-sp.jp
+DOMAIN-SUFFIX,ehg-youtube.hitbox.com
+DOMAIN-SUFFIX,m-78.jp
+DOMAIN-SUFFIX,nichibenren.or.jp
+DOMAIN-SUFFIX,nicorette.co.kr
+
 #zhihu
 USER-AGENT,AVOS*
 URL-REGEX,https?://www.zhihu.com/api/v4/mcn/
