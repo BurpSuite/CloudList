@@ -16,7 +16,6 @@ URL-REGEX,https?:\/\/youtubei.googleapis.com\/.+ad_break
 URL-REGEX,https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)
 URL-REGEX,https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat
 URL-REGEX,https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad
-URL-REGEX,^https?:\/\/[\w-]+\.googlevideo\.com\/.+&(oad|ctier)
 
 DOMAIN-SUFFIX,azabu-u.ac.jp
 DOMAIN-SUFFIX,couchcoaster.jp
