@@ -1,2 +1,24 @@
+#bilibili
+URL-REGEX,https://app.bilibili.com/x/v2/(splash|search/(defaultword|square))
+URL-REGEX,https://api.bilibili.com/x/v2/dm/ad
 
-DOMAIN-KEYWORD,adleftimg
+#youtube
+URL-REGEX,https?:\/\/.+.googlevideo.com\/ptracking\?pltype=adhost
+URL-REGEX,https?:\/\/.+.youtube.com\/api\/stats\/ads
+URL-REGEX,https?:\/\/.+.youtube.com\/get_midroll_
+URL-REGEX,https?:\/\/.+.youtube.com\/pagead\/
+URL-REGEX,https?:\/\/.+.youtube.com\/ptracking\?
+URL-REGEX,https?:\/\/.+.youtube.com\/_get_ads
+URL-REGEX,https?:\/\/premiumyva.appspot.com\/vmclickstoadvertisersite
+URL-REGEX,https?:\/\/s0.2mdn.net\/ads\/
+URL-REGEX,https?:\/\/stats.tubemogul.com\/stats\/
+URL-REGEX,https?:\/\/youtubei.googleapis.com\/.+ad_break
+URL-REGEX,https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)
+URL-REGEX,https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat
+URL-REGEX,https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad
+
+#zhihu
+USER-AGENT,AVOS*
+URL-REGEX,https?://www.zhihu.com/api/v4/mcn/
+URL-REGEX,https?://api.zhihu.com/(ab|adx|xen|club|fringe|zst|commercial|ad-style-service|market/popover|search/(top|tab|preset)|.*(guide|recommendations|extended|featured-comment-ad)),REJECT
+AND,((USER-AGENT,osee2*), (NOT,((DOMAIN-SUFFIX,zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com))))
