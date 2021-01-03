@@ -24,3 +24,5 @@ DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-KEYWORD,-tiktokcdn-com
+
+DOMAIN-SUFFIX,*.tiktokv.com
