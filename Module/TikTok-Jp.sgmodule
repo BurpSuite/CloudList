@@ -1,4 +1,5 @@
-#油管搜索：Happy白嫖
+#!name= TikTok-Jp
+#!desc= 日本
 [URL Rewrite]
 #tiktok解锁直播区域限制
 (?<=_region=)CN(?=&) JP 307
