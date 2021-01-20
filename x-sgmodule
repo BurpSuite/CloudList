@@ -1,6 +1,6 @@
-#!name=去广告集合（zhihu youtube bilibili weibo 比价 Netflix评分）
-#!desc=Zhihu app removes ads.
-#!system=ios
+#!name= RemoveAd
+#!desc= （zhihu youtube bilibili weibo 比价 Netflix评分）
+#!system= ios
 # 该订阅为脚本合集,用于Remove Ads
 # 如需YouTube去广告,请手动添加 *.googlevideo主机名到hostname .
 
